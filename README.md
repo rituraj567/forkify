@@ -3,6 +3,8 @@
 
 A single page web page application which grabs recipe data from an API and displays when an user searches for recipes. The user can add the recipe to shopping list and save the recipes by liking their favorite recipes.
 
+View the live application by clicking on this link https://rituraj567.github.io/forkify/
+
 Getting Started
 ===============
 
@@ -31,6 +33,9 @@ Getting Started
 Technologies Used
 ===============
 
-- [React](https://reactjs.org)
 - JavaScript ES6
-- BooksAPI
+- Local Storage API
+- WebPack
+- Babel
+- Node.js
+- [food2fork API](https://www.food2fork.com/about/api)

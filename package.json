@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage":"httsp://rituraj567.github.io/forkify",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
